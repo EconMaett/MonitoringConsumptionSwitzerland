@@ -1,0 +1,38 @@
+# DHU-Payment Korrelation
+# Sturkturbruch 2014 - 2019 "normale daten"
+
+# Try: Bis 2020 Daten?
+
+# Dezembermonat 2019? 
+
+# Detrending? Andere Vorgehensweise?
+
+# Prediction:
+# ACF, PCF
+# ARIMA Modell selektion
+# Residuen sind white noise oder nicht?
+
+
+# Kreativ:
+# Prognose für das Jahr 2019 machen
+# Backtesting
+
+# Frage: Wie wären die Prognosen unter dem gegebenen Modell witergegangen?
+
+# Alle vergangenen Prognosen plus neue als Benchmark erstellen
+# Als BENCHMARK für Verbesserungen des Modells
+
+# Daten 2014 -2018 -> Prognose von 2019
+
+# Monatsdummies?
+
+# Subindizes
+
+
+# PowerPoint Folien 
+# Prognosen - Ergebnisse - Fragen
+
+# Bescheid an MF sobald PPP fertig
+
+
+# BFS sehr kleine Abweichungen möglich -> Email BFS
